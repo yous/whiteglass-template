@@ -1,5 +1,7 @@
 # whiteglass-template
 
+![Jekyll Deploy](https://github.com/yous/whiteglass-template/workflows/Jekyll%20Deploy/badge.svg)
+
 Template site for [whiteglass](https://github.com/yous/whiteglass) theme.
 
 ## Configuration
