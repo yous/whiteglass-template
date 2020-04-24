@@ -2,6 +2,16 @@
 
 Template site for [whiteglass](https://github.com/yous/whiteglass) theme.
 
+## Configuration
+
+You need to add a secret named `JEKYLL_PAT` to make GitHub Actions work.
+Generate a personal access token on <https://github.com/settings/tokens>, select
+`public_repo` or `repo` depending on your repository.
+
+Then in the settings page of your repository, go to Secrets tab
+(`https://github.com/<user>/<repo>/settings/secrets`) and add that token with
+its name `JEKYLL_PAT`.
+
 ## License
 
 This is free and unencumbered software released into the public domain. For more
