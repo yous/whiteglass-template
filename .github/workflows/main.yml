@@ -14,6 +14,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
       - name: Build & Deploy to GitHub Pages
-        uses: helaili/jekyll-action@2.0.1
+        uses: helaili/jekyll-action@2.0.2
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
