@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yous.github.io/whiteglass-template/sitemap.xml
