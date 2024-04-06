@@ -1,6 +1,6 @@
 # whiteglass-template
 
-[![Jekyll Deploy](https://github.com/yous/whiteglass-template/workflows/Jekyll%20Deploy/badge.svg?branch=source)](https://github.com/yous/whiteglass-template/actions?query=workflow%3A%22Jekyll+Deploy%22+branch%3Asource)
+[![Deploy Jekyll site to Pages](https://github.com/yous/whiteglass-template/workflows/Deploy%20Jekyll%20site%20to%20Pages/badge.svg?branch=source)](https://github.com/yous/whiteglass-template/actions?query=workflow%3A%22Deploy+Jekyll+site+to+Pages%22+branch%3Asource)
 
 Template site for [whiteglass](https://github.com/yous/whiteglass) theme. Click
 "Use this template" button to start.
